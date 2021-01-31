@@ -1,11 +1,7 @@
 package com.hkd.java;
 
-import org.junit.Test;
-import sun.misc.PostVMInitHook;
 
-import javax.swing.text.StyledEditorKit;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Date;
 
 public class HelloWorld {
@@ -56,15 +52,5 @@ public class HelloWorld {
 
 
                 还需要6天 => 8+12+6,11+11+5,10+11+5,12+13,*/
-    }
-
-    @Test
-    public void test() {
-
-    }
-
-    @Test
-    public void testSpring() {
-
     }
 }
